@@ -1,0 +1,1 @@
+Bu proje CodeBlock'ta GLUT projesi olarak oluşturulmuş ve derlenmiştir.Kod CodeBlock'ta istenilen şekilde tam olarak çalışmaktadır.Diğer platformlarda çalışabilirliği test edilmemiştir.
